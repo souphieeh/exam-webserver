@@ -13,23 +13,6 @@ def load_selectors():
         return json.load(f)
 
 
-# webscraping function
-def my_scraper():
-    # YOUR CODE GOES HERE
-    pass
-
-
-# filter function
-def my_filter():
-    # YOUR CODE GOES HERE
-    pass
-
-# output to json
-def write_json():
-    # YOUR CODE GOES HERE
-    pass
-
-
 # define route(s)
 @app.route("/")
 def home():

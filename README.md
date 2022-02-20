@@ -10,38 +10,30 @@ Work wich commits. At the latest after every exercise you should commit with the
 
 Fork this repository to your own github account.
 
-## Aufgabe 2 (Styling - 3 P.)
+## Exercise 2 (Styling - 3 P.)
 
 Change `main.css` to match the following picture. Don't spend too much time on details.
 
 ![index.png](index.png)
 
-## Aufagbe 3 (Webscraper - 4 P.)
+## Exercise 3 (Webscraper - 4 P.)
 
 1. Follow the link *Scraping* in the navigation bar. There you will find a table. What is the CSS-class of the first column of the table?
 2. Open the file `scrape.py` and read through the code.
 3. Run the file `scrape.py`. What is the output?
-4. Verwenden Sie den Link Scraping in der Navigationsleiste, dort finden Sie
-   eine Tabelle. Welche Klasse hat die erste Spalte in der Tabelle?
-3. Öffnen Sie die Datei `scrape.py` und lesen Sie durch den Code.
-4. Führen Sie die Datei `scrape.py` aus. Was ist die Ausgabe?
-6. Ändern Sie den Selektor im `scrape.py` so ab, dass nur noch die
-   fettgedruckten von diesen Elementen ausgegeben werden.
+4. Change the selector in `scrape.py` such that it only outputs the **bold** elements of the table.
 
-## Aufgabe 4 (In die eigene Website einbauen - 4 P.)
+## Exercise 4 (Insert into your own webpage - 4 P.)
 
-1. Fügen Sie eine neue Datei `results.html` hinzu, die `base.html` erweitert.
-1. Fügen Sie einen Link zur Navigationsleiste hinzu der Sie zu Ihrer
-   Resultatseite bringt.
-3. Stellen Sie den Inhalt der Datei `data.json` als Liste auf Ihrer Webseite
-   dar. Es soll jeweils der **Name** und die **ID** angegeben werden. 
+1. Add a file `results.html` that extends `base.html`.
+2. Add a link to the navigation bar that links to your new page.
+3. Show the contents of the file `data.json` on  your new page as a list. The list should have a row *Name* and a row *ID*.
 
-## Aufagbe 6 (Pull Request - 1 P.)
+## Exercise 6 (Pull Request - 1 P.)
 
-Erstellen Sie einen Pull Request zu dem Repository das Sie geforkt haben
-(upstream).
+Create a pull request to the repository from where you initially forked (upstream).
 
-## Aufgabe 7 (Bonus 1: Erstellen Sie ein neues Design - 2 P.)
+## Exercise 7 (Bonus 1: Create a new Design - 2 P.)
 
-Erstellen Sie einen neuen Branch in dem Sie ein alternatives Design entwickeln.
-Erstellen Sie einen weiteren Pull Request von diesem Branch.
+Create a new branch in  which you change the design of your website (starting from the base template).
+Create a second pull request from this branch.
