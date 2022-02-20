@@ -4,7 +4,7 @@ This exam is open book which means that you may use any resources at your dispos
 
 **No direct communication with other persons!!!**
 
-Work wich commits. At the latest after every exercise you should commit with the text *Exercise x finished*.
+Work with commits. At the latest, after every exercise you should commit with the text *Exercise x finished*.
 
 ## Exercise 1 (Fork repository - 1 P.)
 
@@ -13,6 +13,7 @@ Fork this repository to your own github account.
 ## Exercise 2 (Styling - 3 P.)
 
 Change `main.css` to match the following picture. Don't spend too much time on details.
+Please add your styling after the indicated line.
 
 ![index.png](index.png)
 
