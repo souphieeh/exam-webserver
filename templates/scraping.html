@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block content %}
+    <h2>Scraping</h2>
+    <table>
+        {% for row in table %}
+        <tr>
+            <td class="scrape-this">
+                {% if row.strong %}
+                <strong> {{ row.content }} </strong>
+                {% else %}
+                {{ row.content }}
+                {% endif %}
+            </td>
+            <td>
+                Test
+            </td>
+        <tr>
+        {% endfor %}
+    </table>
+{% endblock %}

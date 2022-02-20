@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block content %}
+    {% for entry in selectors %}
+        <div class="selector-card shadow">
+            <div class="card-header">
+            {{ entry.selector }}
+            </div>
+            <div class="card-content">
+                <div class="card-left">
+                    {{ entry.example }}
+                </div>
+                <div class="card-right">
+                    {{ entry.explanation }}
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+{% endblock %}
