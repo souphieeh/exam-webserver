@@ -1,27 +1,22 @@
-# Probe Prüfung
+# Exam
 
-Dies ist eine Beispiel wie die nächste Informatik-Prüfung aussehen wird. Die
-Prüfung ist Open-Book, was bedeutet Sie dürfen alle Ressourcen verwenden:
-jupyter notebooks, dieses Projekt, das letzte Projekt, das Internet...
+This exam is open book which means that you may use any resources at your disposal.
 
-**Kommunikation mit anderen ist verboten!!!**
+**No direct communication with other persons!!!**
 
-Arbeiten Sie mit Commits! Spätestens nach jeder Aufgabe sollten Sie einen
-Commit erstellen (verwenden Sie `"Aufgabe x fertig."` als Commit-Nachricht.)
+Work wich commits. At the latest after every exercise you should commit with the text *Exercise x finished*.
 
-## Aufgabe 1 (Repository forken - 1 P.)
+## Exercise 1 (Fork repository - 1 P.)
 
-Forken Sie das Repository in Ihren eigenen Github-Account.
+Fork this repository to your own github account.
 
-## Aufgabe 2 (Style anpassungen - 3 P.)
+## Aufgabe 2 (Styling - 3 P.)
 
-Ändern Sie die Datein `main.css` so ab, das möglichst genau dem folgenden Bild
-entspricht. Verschwenden Sie keine Zeit mit Details. Das Design muss nur
-ungefähr stimmen.
+Change `main.css` to match the following picture. Don't spend too much time on details.
 
 ![index.png](index.png)
 
-## Aufagbe 3 (Webscraper schreiben - 4 P.)
+## Aufagbe 3 (Webscraper - 4 P.)
 
 1. Verwenden Sie den Link Scraping in der Navigationsleiste, dort finden Sie
    eine Tabelle. Welche Klasse hat die erste Spalte in der Tabelle?
