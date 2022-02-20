@@ -18,7 +18,10 @@ Change `main.css` to match the following picture. Don't spend too much time on d
 
 ## Aufagbe 3 (Webscraper - 4 P.)
 
-1. Verwenden Sie den Link Scraping in der Navigationsleiste, dort finden Sie
+1. Follow the link *Scraping* in the navigation bar. There you will find a table. What is the CSS-class of the first column of the table?
+2. Open the file `scrape.py` and read through the code.
+3. Run the file `scrape.py`. What is the output?
+4. Verwenden Sie den Link Scraping in der Navigationsleiste, dort finden Sie
    eine Tabelle. Welche Klasse hat die erste Spalte in der Tabelle?
 3. Öffnen Sie die Datei `scrape.py` und lesen Sie durch den Code.
 4. Führen Sie die Datei `scrape.py` aus. Was ist die Ausgabe?
