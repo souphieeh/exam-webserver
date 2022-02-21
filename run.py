@@ -22,8 +22,8 @@ def home():
 @app.route("/scraping")
 def scraping():
     data = [
-        {"strong": True, "content": "Test"},
-        {"strong": False, "content": "Test"},
+        {"strong": True, "content": "this text is bold"},
+        {"strong": False, "content": "this is not bold"},
     ]
     return render_template("scraping.html", table=data)
 

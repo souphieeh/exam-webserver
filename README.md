@@ -2,6 +2,8 @@
 
 This exam is open book which means that you may use any resources at your disposal.
 
+**Hint:** Most things you need can be found in this very repository...
+
 **No direct communication with other persons!!!**
 
 Work with commits. At the latest, after every exercise you should commit with the text *Exercise x finished*.
@@ -21,14 +23,16 @@ Please add your styling after the indicated line.
 
 1. Follow the link *Scraping* in the navigation bar. There you will find a table. What is the CSS-class of the first column of the table?
 2. Open the file `scrape.py` and read through the code.
-3. Run the file `scrape.py`. What is the output?
-4. Change the selector in `scrape.py` such that it only outputs the **bold** elements of the table.
+3. Run the file `scrape.py`. What is the output - write your answer on the page `index.html`? 
+**Note:** You have to run this file while your webserver is running. Type `python scrape.py` in a shell below to run the code. Ask me if you have any problems wiith this.
+4. Change the selector in `scrape.py` such that it outputs the first column of the table.
+5. Change the selector in `scrape.py` such that it only outputs the **bold** (= `strong`) elements of the table.
 
 ## Exercise 4 (Insert into your own webpage - 4 P.)
 
 1. Add a file `results.html` that extends `base.html`.
 2. Add a link to the navigation bar that links to your new page.
-3. Show the contents of the file `data.json` on  your new page as a list. The list should have a row *Name* and a row *ID*.
+3. Show the contents of the file `data.json` on  your new page as a list. The list should have a row *ID* and a row *Name*.
 
 ## Exercise 6 (Pull Request - 1 P.)
 
