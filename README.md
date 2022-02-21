@@ -32,7 +32,7 @@ Please add your styling after the indicated line.
 
 1. Add a file `results.html` that extends `base.html`.
 2. Add a link to the navigation bar that links to your new page.
-3. Show the contents of the file `data.json` on  your new page as a list. The list should have a row *ID* and a row *Name*.
+3. Show the contents of the file `data.json` on  your new page as a list. The list should have a row *ID* and a row *Name*. **Hint:** Use the command `with open(...)`.
 
 ## Exercise 6 (Pull Request - 1 P.)
 
